@@ -1,0 +1,21 @@
+{
+  "action": "kick",
+  "places": {
+    "6473861193": {
+      "name": "Eastern Luminant",
+      "version": 4259
+    },
+    "6032399813": {
+      "name": "Etrean Luminant",
+      "version": 10300
+    },
+    "5735553160": {
+      "name": "Depths",
+      "version": 4177
+    },
+    "8668476218": {
+      "name": "Layer 2",
+      "version": 3443
+    }
+  }
+}
